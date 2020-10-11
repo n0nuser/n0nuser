@@ -25,5 +25,3 @@
 - **[Projects](https://nonuser.es/tags/projects/)**
 - **[RFID](https://nonuser.es/tags/rfid/)**
 - **[Writeups](https://nonuser.es/tags/writeup/)**
-
-<img src="https://media3.giphy.com/media/10tN8bxISI1IZi/200.gif">
