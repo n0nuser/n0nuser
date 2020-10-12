@@ -21,7 +21,7 @@
 
 - **[Cheatsheets](https://nonuser.es/tags/cheatsheet/)**
 - **[Guides](https://nonuser.es/tags/guide/)**
-- **[Bash](https://nonuser.es/tags/Bash/)**
+- **[Bash](https://nonuser.es/tags/bash/)**
 - **[Projects](https://nonuser.es/tags/projects/)**
 - **[RFID](https://nonuser.es/tags/rfid/)**
 - **[Writeups](https://nonuser.es/tags/writeup/)**
