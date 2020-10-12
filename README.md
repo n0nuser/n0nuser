@@ -11,6 +11,7 @@
 
 ### Most useful posts 
 
+- [Bash Aliases](https://nonuser.es/posts/bash_aliases/)
 - [Markdown Cheatsheet](https://nonuser.es/posts/markdown/)
 - [Data Exfiltration](https://nonuser.es/posts/data_exfiltration/)
 - [Bash Scripting Cheatsheet](https://nonuser.es/posts/bash_cheatsheet/)
