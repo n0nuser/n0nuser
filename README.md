@@ -23,11 +23,33 @@
 
 ***
 
+## 👨‍💻 Interesting posts on my webpage
+
+<details>
+<summary>Open here!</summary>
+
+### General
+
+- **[Pentesting Common Ports](https://nonuser.es/posts/pentest_cheatsheet/)**
+- **[General Pentesting Procedures](https://nonuser.es/posts/pentest_cheatsheet/)**
+- **[Google Dorks](https://nonuser.es/posts/dorks/)**
+- **[How to download streaming videos](https://nonuser.es/posts/m3u8/)**
+
+### Languages
+- **[Shell](https://nonuser.es/posts/bash_cheatsheet/)**
+- **[Markdown](https://nonuser.es/posts/markdown/)**
+
+### Server Setup Guide
+- **[SSH](https://nonuser.es/posts/ssh/)**
+
+***
+
 ## Webpage Tags
 
 - **[Cheatsheets](https://nonuser.es/tags/cheatsheet/)**
+- **[CTF's Writeups](https://nonuser.es/tags/writeup/)**
 - **[Guides](https://nonuser.es/tags/guide/)**
 - **[Bash](https://nonuser.es/tags/bash/)**
 - **[Projects](https://nonuser.es/tags/projects/)**
 - **[RFID](https://nonuser.es/tags/rfid/)**
-- **[Writeups](https://nonuser.es/tags/writeup/)**
+</details>
