@@ -14,12 +14,15 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white&color=000000)
 
 ## 📞 You can reach me in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
 [![Twitter Followers](https://img.shields.io/twitter/follow/n0nuser_?style=for-the-badge&logo=twitter&label=Twitter&color=CDCDCD&labelColor=000000&logoColor=FFFFFF)](https://twitter.com/n0nuser_)
 [![GitHub Followers](https://img.shields.io/github/followers/n0nuser?style=for-the-badge&logo=github&label=Github&color=CDCDCD&labelColor=000000)](https://github.com/n0nuser)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discordapp.com/users/494558292752728079)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000&color=000000)](https://steamcommunity.com/id/pjgr234)
 
 ***
 
