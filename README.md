@@ -8,14 +8,20 @@
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=n0nuser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0nuser&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=n0nuser.github.io&hide=Makefile&bg_color=10,904e95,e96443&title_color=fff&text_color=fff"/>
 
-## 🚀 Languages and tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages
 
 ![](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&color=000000)
+
+## <img src="https://media.tenor.com/images/707c21db7365fce68ef9e059f5824626/tenor.gif" width="25"> Technologies
+
+![](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=000000)
 
 ## 📞 You can reach me in:
 
