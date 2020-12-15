@@ -23,6 +23,10 @@
 ![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=000000)
 
+## <img src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" width="20"/> Spotify Playing 
+
+[<img src="https://now-playing-profile.n0nuser.vercel.app/now-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/orl1r6ro371sob7h4jvk06sse)
+
 ## 📞 You can reach me in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
