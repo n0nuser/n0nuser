@@ -2,7 +2,7 @@
 
 📚 *Computer Engineering Student at [USAL](https://usal.es/).*
 
-✨ Interests: *Pentesting, Red Teaming and Automating stuff.*
+✨ Interests: *Pentesting, Red Teaming, SysAdmin and Automating stuff.*
 
 ## 📊 Stats
 
