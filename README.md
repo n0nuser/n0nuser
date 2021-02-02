@@ -12,16 +12,16 @@
 
 Main:
 
-![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)
+[![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=c)
+[![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=python)
+[![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=shell)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 
 Secondary:
 
-![](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&color=000000)
-![](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%20sharp&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Ada-000000?style=for-the-badge&logo=ada&logoColor=white&color=000000)
+[![](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=java)
+[![](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%20sharp&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=c%23)
+[![](https://img.shields.io/badge/Ada-000000?style=for-the-badge&logo=ada&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=ada)
 
 ## <img src="https://media.tenor.com/images/707c21db7365fce68ef9e059f5824626/tenor.gif" width="25"> Technologies
 
