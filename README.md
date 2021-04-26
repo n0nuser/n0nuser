@@ -7,6 +7,7 @@
 ## 📊 Stats
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=n0nuser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0nuser&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=n0nuser.github.io&hide=Makefile&bg_color=10,904e95,e96443&title_color=fff&text_color=fff"/>
+<img height="150px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=n0nuser"/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages
 
@@ -30,24 +31,15 @@ Secondary:
 ![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=000000)
 
-## <img src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" width="20"/> Spotify Playing 
-
-[<img src="https://now-playing-profile.n0nuser.vercel.app/now-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/orl1r6ro371sob7h4jvk06sse)
-
-## 📞 You can reach me in:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
-[![Twitter Followers](https://img.shields.io/twitter/follow/n0nuser_?style=for-the-badge&logo=twitter&label=Twitter&color=CDCDCD&labelColor=000000&logoColor=FFFFFF)](https://twitter.com/n0nuser_)
-[![GitHub Followers](https://img.shields.io/github/followers/n0nuser?style=for-the-badge&logo=github&label=Github&color=CDCDCD&labelColor=000000)](https://github.com/n0nuser)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discordapp.com/users/494558292752728079)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000&color=000000)](https://steamcommunity.com/id/pjgr234)
-
-***
-
 ## 👨‍💻 Interesting posts on my webpage
 
 <details>
 <summary>Open here!</summary>
+
+### Linux Course
+
+- **[Filesystem](https://nonuser.es/posts/linux_filesystem/)**
+- **[Monitoring Processes](https://nonuser.es/posts/linux_processes/)**
 
 ### General
 
@@ -71,5 +63,19 @@ Secondary:
 - **[CTF's Writeups](https://nonuser.es/tags/writeup/)**
 - **[Guides](https://nonuser.es/tags/guide/)**
 - **[Projects](https://nonuser.es/tags/projects/)**
-- **[RFID](https://nonuser.es/tags/rfid/)**
 </details>
+
+***
+
+## <img src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" width="20"/> Spotify Playing 
+
+[<img src="https://now-playing-profile.n0nuser.vercel.app/now-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/orl1r6ro371sob7h4jvk06sse)
+
+## 📞 You can reach me in:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
+[![Twitter Followers](https://img.shields.io/twitter/follow/n0nuser_?style=for-the-badge&logo=twitter&label=Twitter&color=CDCDCD&labelColor=000000&logoColor=FFFFFF)](https://twitter.com/n0nuser_)
+[![GitHub Followers](https://img.shields.io/github/followers/n0nuser?style=for-the-badge&logo=github&label=Github&color=CDCDCD&labelColor=000000)](https://github.com/n0nuser)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discordapp.com/users/494558292752728079)
+
+<img height="200px" src="https://steam-stat.vercel.app/api?profileName=n0nuser"/>
