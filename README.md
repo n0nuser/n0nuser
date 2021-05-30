@@ -76,6 +76,3 @@ Secondary:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
 [![Twitter Followers](https://img.shields.io/twitter/follow/n0nuser_?style=for-the-badge&logo=twitter&label=Twitter&color=CDCDCD&labelColor=000000&logoColor=FFFFFF)](https://twitter.com/n0nuser_)
 [![GitHub Followers](https://img.shields.io/github/followers/n0nuser?style=for-the-badge&logo=github&label=Github&color=CDCDCD&labelColor=000000)](https://github.com/n0nuser)
-[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=000000)](https://discordapp.com/users/494558292752728079)
-
-<img height="200px" src="https://steam-stat.vercel.app/api?profileName=n0nuser"/>
