@@ -18,52 +18,11 @@ Main:
 [![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=shell)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
 
-Secondary:
-
-[![](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=java)
-[![](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c%20sharp&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=c%23)
-[![](https://img.shields.io/badge/Ada-000000?style=for-the-badge&logo=ada&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=ada)
-
 ## <img src="https://media.tenor.com/images/707c21db7365fce68ef9e059f5824626/tenor.gif" width="25"> Technologies
 
 ![](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=000000)
-
-## 👨‍💻 Interesting posts on my webpage
-
-<details>
-<summary>Open here!</summary>
-
-### Linux Course
-
-- **[Filesystem](https://nonuser.es/posts/linux_filesystem/)**
-- **[Monitoring Processes](https://nonuser.es/posts/linux_processes/)**
-
-### General
-
-- **[Pentesting Common Ports](https://nonuser.es/posts/pentest_cheatsheet/)**
-- **[General Pentesting Procedures](https://nonuser.es/posts/pentest_cheatsheet/)**
-- **[Google Dorks](https://nonuser.es/posts/dorks/)**
-- **[How to download streaming videos](https://nonuser.es/posts/m3u8/)**
-
-### Languages
-- **[Shell](https://nonuser.es/posts/bash_cheatsheet/)**
-- **[Markdown](https://nonuser.es/posts/markdown/)**
-
-### Server Setup Guide
-- **[SSH](https://nonuser.es/posts/ssh/)**
-
-***
-
-## Webpage Tags
-
-- **[Cheatsheets](https://nonuser.es/tags/cheatsheet/)**
-- **[CTF's Writeups](https://nonuser.es/tags/writeup/)**
-- **[Guides](https://nonuser.es/tags/guide/)**
-- **[Projects](https://nonuser.es/tags/projects/)**
-</details>
 
 ***
 
@@ -72,7 +31,7 @@ Secondary:
 [<img src="https://now-playing-profile.n0nuser.vercel.app/now-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/orl1r6ro371sob7h4jvk06sse)
 
 ## 📞 You can reach me in:
-
+[![Webpage](https://img.shields.io/website?down_color=red&down_message=down&label=nonuser.es&style=for-the-badge&up_color=green&labelColor=000000&logoColor=FFFFFF&up_message=up&url=https%3A%2F%2Fnonuser.es)](https://nonuser.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
 [![Twitter Followers](https://img.shields.io/twitter/follow/n0nuser_?style=for-the-badge&logo=twitter&label=Twitter&color=CDCDCD&labelColor=000000&logoColor=FFFFFF)](https://twitter.com/n0nuser_)
 [![GitHub Followers](https://img.shields.io/github/followers/n0nuser?style=for-the-badge&logo=github&label=Github&color=CDCDCD&labelColor=000000)](https://github.com/n0nuser)
