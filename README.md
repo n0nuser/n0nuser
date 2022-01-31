@@ -25,7 +25,7 @@ Main:
 
 ***
 
-## <img src="https://www.flaticon.com/svg/static/icons/svg/174/174872.svg" width="20"/> Spotify Playing 
+## Spotify Playing
 
 [<img src="https://now-playing-profile.n0nuser.vercel.app/now-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/orl1r6ro371sob7h4jvk06sse)
 
