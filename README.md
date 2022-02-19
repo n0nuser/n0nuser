@@ -2,7 +2,7 @@
 
 📚 *Computer Engineering Student at [USAL](https://usal.es/).*
 
-✨ Interests: *Pentesting, Red Teaming, SysAdmin and Automating stuff.*
+✨ Interests: *Linux System Administration, Cybersecurity, Backend Web, API's development, and the automation of both simple and complex tasks.*
 
 ## 📊 Stats
 
@@ -22,8 +22,10 @@ Main:
 ![](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white&color=000000)
 
-***
+---
 
 ## Spotify Playing
 
