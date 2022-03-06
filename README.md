@@ -4,26 +4,16 @@
 
 ✨ Interests: *Linux System Administration, Cybersecurity, Backend Web, API's development, and the automation of both simple and complex tasks.*
 
+🎈 Hobbies: *Videogames 🕹, Aquarium Keeping 🐟 and Plants 🌱*
+
+| **<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages** | [![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=c) [![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=python) [![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=shell) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=000000) |
+|:---:|:---|
+| **<img src="https://media.tenor.com/images/707c21db7365fce68ef9e059f5824626/tenor.gif" width="25"> Technologies** | ![](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white&color=000000) ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=000000) ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=000000) ![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=000000) ![](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white&color=000000) |
+| **<img src="https://c.tenor.com/FfQQQloVo3MAAAAi/kirby-line-sticker-kirby.gif" width="30"> API** | [![](https://img.shields.io/badge/DRF-000000?style=for-the-badge&logo=django&logoColor=white&color=000000)](https://www.django-rest-framework.org/) [![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=000000)](https://flask.palletsprojects.com/) [![](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white&color=000000)](https://fastapi.tiangolo.com/)
+
 ## 📊 Stats
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=n0nuser&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/> <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0nuser&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=n0nuser.github.io&hide=Makefile&bg_color=10,904e95,e96443&title_color=fff&text_color=fff"/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages
-
-Main:
-
-[![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=c)
-[![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=python)
-[![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=shell)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=000000)
-
-## <img src="https://media.tenor.com/images/707c21db7365fce68ef9e059f5824626/tenor.gif" width="25"> Technologies
-
-![](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white&color=000000)
 
 ---
 
