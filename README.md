@@ -20,6 +20,7 @@
 
 ## 📞 You can reach me in:
 [![Webpage](https://img.shields.io/website?down_color=red&down_message=down&label=nonuser.es&style=for-the-badge&up_color=green&labelColor=000000&logoColor=FFFFFF&up_message=up&url=https%3A%2F%2Fnonuser.es)](https://nonuser.es)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
 [![Twitter Followers](https://img.shields.io/twitter/follow/n0nuser_?style=for-the-badge&logo=twitter&label=Twitter&color=CDCDCD&labelColor=000000&logoColor=FFFFFF)](https://twitter.com/n0nuser_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
 [![GitHub Followers](https://img.shields.io/github/followers/n0nuser?style=for-the-badge&logo=github&label=Github&color=CDCDCD&labelColor=000000)](https://github.com/n0nuser)
+<a href="mailto: gonzrubio.pablo@gmail.com"><img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=000000"></a>
