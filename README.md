@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.tenor.com/images/e18de738e02a96ebacd4127a2f07a1cc/tenor.gif" width="50">
 
-📚 *Computer Engineering Student at [USAL](https://usal.es/).*
+📚 *Computer Science graduate at [USAL](https://usal.es/).*
 
 ✨ Interests: *Backend Web and API's development, Linux System Administration, Cybersecurity, and the automation of both simple and complex tasks.*
 
