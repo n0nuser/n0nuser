@@ -1,10 +1,13 @@
 # Hi there <img src="https://media.tenor.com/images/e18de738e02a96ebacd4127a2f07a1cc/tenor.gif" width="50">
 
-📚 *Computer Science graduate at [USAL](https://usal.es/).*
+👨‍🎓 *Computer Engineer graduate at [USAL](https://usal.es/).*
 
-✨ Interests: *Backend Web and API's development, Linux System Administration, Cybersecurity, and the automation of both simple and complex tasks.*
+🌐 *[Website](https://nonuser.es)*
 
-🎈 Hobbies: *Videogames 🕹, Aquarium Keeping 🐟 and Plants 🌱*
+📋 *[Resume](https://resume.nonuser.es)*
+
+📚 *[Manual of Me](https://manual.nonuser.es)*
+
 
 | **<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages** | [![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=c) [![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=python) [![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=shell) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=000000) |
 |:---|:---|
@@ -13,10 +16,6 @@
 | **<img src="https://media.tenor.com/images/707c21db7365fce68ef9e059f5824626/tenor.gif" width="25"> Technologies** | ![](https://img.shields.io/badge/Hugo-000000?style=for-the-badge&logo=hugo&logoColor=white&color=000000) ![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white&color=000000) ![](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&color=000000) ![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white&color=000000) |
 
 ---
-
-## Spotify Playing
-
-[<img src="https://now-playing-profile.n0nuser.vercel.app/now-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/orl1r6ro371sob7h4jvk06sse)
 
 ## 📞 You can reach me in:
 [![Webpage](https://img.shields.io/website?down_color=red&down_message=down&label=nonuser.es&style=for-the-badge&up_color=green&labelColor=000000&logoColor=FFFFFF&up_message=up&url=https%3A%2F%2Fnonuser.es)](https://nonuser.es)
