@@ -2,11 +2,11 @@
 
 👨‍🎓 *Computer Engineer graduate at [USAL](https://usal.es/).*
 
-🌐 *[Website](https://nonuser.es)*
+🌐 *[Website](https://pablogonzalez.me)*
 
-📋 *[Resume](https://resume.nonuser.es)*
+📋 *[Resume](https://pablogonzalez.me/resume.pdf)*
 
-📚 *[Manual of Me](https://manual.nonuser.es)*
+📚 *[Manual of Me](https://manual.pablogonzalez.me)*
 
 
 | **<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages** | [![](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=c) [![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=python) [![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white&color=000000)](https://github.com/n0nuser?tab=repositories&q=&type=&language=shell) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=000000) |
@@ -18,7 +18,7 @@
 ---
 
 ## 📞 You can reach me in:
-[![Webpage](https://img.shields.io/website?down_color=red&down_message=down&label=nonuser.es&style=for-the-badge&up_color=green&labelColor=000000&logoColor=FFFFFF&up_message=up&url=https%3A%2F%2Fnonuser.es)](https://nonuser.es)
+[![Webpage](https://img.shields.io/website?down_color=red&down_message=down&label=pablogonzalez.me&style=for-the-badge&up_color=green&labelColor=000000&logoColor=FFFFFF&up_message=up&url=https%3A%2F%2Fpablogonzalez.me)](https://pablogonzalez.me)
 [![Twitter Followers](https://img.shields.io/twitter/follow/n0nuser_?style=for-the-badge&logo=twitter&label=Twitter&color=CDCDCD&labelColor=000000&logoColor=FFFFFF)](https://twitter.com/n0nuser_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=000000)](https://www.linkedin.com/in/nonuser/)
 [![GitHub Followers](https://img.shields.io/github/followers/n0nuser?style=for-the-badge&logo=github&label=Github&color=CDCDCD&labelColor=000000)](https://github.com/n0nuser)
