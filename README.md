@@ -34,4 +34,9 @@ Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (24
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Microservices vs. Monolithic: A Friendly Guide for Backend Developers](https://pablogonzalez.me/posts/microservice_vs_monolythic/)
+- [Software Development Best Practices - WIP](https://pablogonzalez.me/posts/software_dev_best_practices/)
+- [Wireguard Setup](https://pablogonzalez.me/posts/wireguard/)
+- [Cryptocurrency notes](https://pablogonzalez.me/posts/crypto_notes/)
+- [Linux - Security Administration](https://pablogonzalez.me/posts/linux_security/)
 <!-- BLOG-POST-LIST:END -->
