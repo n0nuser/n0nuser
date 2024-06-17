@@ -7,7 +7,7 @@
 
 ---
 
-```txt
+```
 $ pip install n0nuser
 Collecting n0nuser
 Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (249kB)
