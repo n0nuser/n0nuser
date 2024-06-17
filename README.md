@@ -1,15 +1,30 @@
-# Hi there <img src="https://media.tenor.com/images/e18de738e02a96ebacd4127a2f07a1cc/tenor.gif" width="50">
-
-I'm Pablo González, a spanish Computer Engineer passionate about backend development in Python. 🐍
-
-As a developer, I specialize in OOP with Python, system architecture, developing API-First systems, and leading backend projects from start to finish. 💻🚀
-
-My experience includes the design, implementation and deployment of web applications and microservices, database management, and server administration. I am ***very*** committed to improving code quality, efficiency and maintainability. 🌐🔍
+<p align="center">
+  <img src="https://raw.githubusercontent.com/n0nuser/n0nuser/main/badges/rc.svg">
+  <img src="https://raw.githubusercontent.com/n0nuser/n0nuser/main/badges/size.svg">
+  <img src="https://raw.githubusercontent.com/n0nuser/n0nuser/main/badges/debug.svg">
+  <img src="https://raw.githubusercontent.com/n0nuser/n0nuser/main/badges/uptime.svg">
+</p>
 
 ---
 
-## 📞 You can reach me in:
+```txt
+$ pip install n0nuser
+Collecting n0nuser
+Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (249kB)
+     |████████████████████████████████| 256kB 6.4MB/s
 
-🌐 *[Website](https://pablogonzalez.me)* | 🔗 *[LinkedIn](https://www.linkedin.com/in/nonuser/)* | 📋 *[Resume](https://pablogonzalez.me/resume.pdf)* | 📚 *[Manual of Me](https://manual.pablogonzalez.me)* | ✉️ *<a href="mailto:gonzrubio.pablo@gmail.com">Email Me</a>* | 📷 *[Flickr](https://www.flickr.com/photos/n0nuser/)*
+    ▄▄▄· ▄▄▄· ▄▄▄▄· ▄▄▌             ▄▄ •        ▐ ▄ ·▄▄▄▄• ▄▄▄· ▄▄▌  ▄▄▄ .·▄▄▄▄•
+   ▐█ ▄█▐█ ▀█ ▐█ ▀█▪██•  ▪         ▐█ ▀ ▪▪     •█▌▐█▪▀·.█▌▐█ ▀█ ██•  ▀▄.▀·▪▀·.█▌
+    ██▀·▄█▀▀█ ▐█▀▀█▄██▪   ▄█▀▄     ▄█ ▀█▄ ▄█▀▄ ▐█▐▐▌▄█▀▀▀•▄█▀▀█ ██▪  ▐▀▀▪▄▄█▀▀▀•
+   ▐█▪·•▐█ ▪▐▌██▄▪▐█▐█▌▐▌▐█▌.▐▌    ▐█▄▪▐█▐█▌.▐▌██▐█▌█▌▪▄█▀▐█ ▪▐▌▐█▌▐▌▐█▄▄▌█▌▪▄█▀
+   .▀    ▀  ▀ ·▀▀▀▀ .▀▀▀  ▀█▄▀▪    ·▀▀▀▀  ▀█▄▀▪▀▀ █▪·▀▀▀ • ▀  ▀ .▀▀▀  ▀▀▀ ·▀▀▀ •                                                                                                                 
+                                                                                               
+         Pythonista • Back-End Engineer • Spanish • Clean Code Advocate
 
-
+❯ 🏡 Website           pablogonzalez.me
+❯ 📬 Email             gonzrubio.pablo@gmail.com
+❯ 🙍🏻‍♂️ LinkedIn          in/nonuser
+❯ 📋 Resume            pablogonzalez.me/resume.pdf
+❯ 📚 Manual of Me      manual.pablogonzalez.me
+❯ 📷 Flickr            flickr.com/photos/n0nuser
+```
