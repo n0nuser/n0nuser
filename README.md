@@ -22,7 +22,7 @@ Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (24
            Pythonista • Back-End Engineer • Spaniard • Clean Code Advocate
 
 ❯ 🏡 Website           pablogonzalez.me
-❯ 📬 Email             gonzrubio.pablo@gmail.com
+❯ 📬 Email             pablo@pablogonzalez.me
 ❯ 🙍🏻‍♂️ LinkedIn          in/nonuser
 ❯ 📋 Resume            pablogonzalez.me/resume.pdf
 ❯ 📚 Manual of Me      manual.pablogonzalez.me
