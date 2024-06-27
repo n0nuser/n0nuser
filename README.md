@@ -36,9 +36,9 @@ Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (24
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a Static Page with Hugo, Cloudflare, and Umami Analytics](https://cee76f8a.n0nuser-github-io.pages.dev/posts/personal_webpage/)
-- [Microservices vs. Monolithic: A Friendly Guide for Backend Developers](https://cee76f8a.n0nuser-github-io.pages.dev/posts/microservice_vs_monolythic/)
-- [Software Development Best Practices - WIP](https://cee76f8a.n0nuser-github-io.pages.dev/posts/software_dev_best_practices/)
-- [Wireguard Setup](https://cee76f8a.n0nuser-github-io.pages.dev/posts/wireguard/)
-- [Cryptocurrency notes](https://cee76f8a.n0nuser-github-io.pages.dev/posts/crypto_notes/)
+- [Setting Up a Static Page with Hugo, Cloudflare, and Umami Analytics](https://pablogonzalez.me/posts/personal_webpage/)
+- [Microservices vs. Monolithic: A Friendly Guide for Backend Developers](https://pablogonzalez.me/posts/microservice_vs_monolythic/)
+- [Software Development Best Practices - WIP](https://pablogonzalez.me/posts/software_dev_best_practices/)
+- [Wireguard Setup](https://pablogonzalez.me/posts/wireguard/)
+- [Cryptocurrency notes](https://pablogonzalez.me/posts/crypto_notes/)
 <!-- BLOG-POST-LIST:END -->
