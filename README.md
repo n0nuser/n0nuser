@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n0nuser/n0nuser/main/badges/rc.svg">
-  <img src="https://raw.githubusercontent.com/n0nuser/n0nuser/main/badges/size.svg">
-  <img src="https://raw.githubusercontent.com/n0nuser/n0nuser/main/badges/debug.svg">
-  <img src="https://raw.githubusercontent.com/n0nuser/n0nuser/main/badges/uptime.svg">
-</p>
-
----
-
 ```
 $ pip install n0nuser
 Collecting n0nuser
