@@ -30,6 +30,6 @@ Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (24
 - [My Homelab: From Book Server to Full Media Stack](https://pablogonzalez.me/posts/jellyfin_homelab_stack/)
 - [Setting Up a Static Page with Hugo, Cloudflare, and Umami Analytics](https://pablogonzalez.me/posts/personal_webpage/)
 - [Microservices vs. Monolithic: A Friendly Guide for Backend Developers](https://pablogonzalez.me/posts/microservice_vs_monolythic/)
-- [Software Development Best Practices - WIP](https://pablogonzalez.me/posts/software_dev_best_practices/)
+- [Software Development Best Practices](https://pablogonzalez.me/posts/software_dev_best_practices/)
 - [Wireguard Setup](https://pablogonzalez.me/posts/wireguard/)
 <!-- BLOG-POST-LIST:END -->
