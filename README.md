@@ -15,7 +15,6 @@ Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (24
 ❯ 🏡 Website           pablogonzalez.me
 ❯ 🙍🏻‍♂️ About Me          pablogonzalez.me/about
 ❯ 🛠️ What I Use        pablogonzalez.me/uses
-❯ ⌛ /Now              pablogonzalez.me/now
 ❯ 📋 Resume            pablogonzalez.me/resume
 ❯ 📬 Email             contact@pablogonzalez.me
 ❯ 🧑‍💼 LinkedIn          in/nonuser
