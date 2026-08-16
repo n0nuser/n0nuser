@@ -26,9 +26,9 @@ Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (24
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [My Homelab: From Book Server to Full Media Stack](https://pablogonzalez.me/posts/jellyfin_homelab_stack/)
-- [Setting Up a Static Page with Hugo, Cloudflare, and Umami Analytics](https://pablogonzalez.me/posts/personal_webpage/)
-- [Microservices vs. Monolithic: A Friendly Guide for Backend Developers](https://pablogonzalez.me/posts/microservice_vs_monolythic/)
-- [Software Development Best Practices](https://pablogonzalez.me/posts/software_dev_best_practices/)
+- [My Homelab: From Book Server to Full Media Stack](https://pablogonzalez.me/posts/jellyfin-homelab-media-stack/)
+- [Setting Up a Static Page with Hugo, Cloudflare, and Umami Analytics](https://pablogonzalez.me/posts/static-site-hugo-cloudflare/)
+- [Microservices vs. Monolithic: A Friendly Guide for Backend Developers](https://pablogonzalez.me/posts/microservices-vs-monolith/)
+- [Software Development Best Practices](https://pablogonzalez.me/posts/software-development-best-practices/)
 - [Wireguard Setup](https://pablogonzalez.me/posts/wireguard/)
 <!-- BLOG-POST-LIST:END -->
