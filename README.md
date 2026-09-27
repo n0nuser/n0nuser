@@ -27,8 +27,8 @@ Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (24
 
 <!-- BLOG-POST-LIST:START -->
 - [An Opinionated Python Code Review Guide](https://pablogonzalez.me/posts/python-code-review-guide/)
-- [From Programmers to Orchestrators: Working in the Code-Overload Era](https://pablogonzalez.me/posts/programmers-to-orchestrators/)
-- [How I Work with AI Agents: Context, Handoffs and Rules](https://pablogonzalez.me/posts/how-i-work-with-ai-agents/)
-- [My Homelab: From Book Server to Full Media Stack](https://pablogonzalez.me/posts/jellyfin-homelab-media-stack/)
-- [Setting Up a Static Page with Hugo, Cloudflare, and Umami Analytics](https://pablogonzalez.me/posts/static-site-hugo-cloudflare/)
+- [From Programmers to Orchestrators](https://pablogonzalez.me/posts/programmers-to-orchestrators/)
+- [How I Work with AI Agents: Handoffs and Rules](https://pablogonzalez.me/posts/how-i-work-with-ai-agents/)
+- [My Homelab: From Book Server to Media Stack](https://pablogonzalez.me/posts/jellyfin-homelab-media-stack/)
+- [Hugo Site on Cloudflare Pages with Umami](https://pablogonzalez.me/posts/static-site-hugo-cloudflare/)
 <!-- BLOG-POST-LIST:END -->
