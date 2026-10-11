@@ -26,9 +26,9 @@ Downloading https://pablogonzalez.me/packages/n0nuser-2.0.0-py3-none-any.whl (24
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Monorepo vs Multi-Repo: A Fair Comparison](https://pablogonzalez.me/posts/monorepo-vs-multi-repo/)
+- [Git Flow vs Trunk-Based Development: A Fair Comparison](https://pablogonzalez.me/posts/gitflow-vs-trunk-based/)
+- [My AI Agent Setup &lpar;October 2026&rpar;](https://pablogonzalez.me/posts/ai-agent-setup/)
 - [An Opinionated Python Code Review Guide](https://pablogonzalez.me/posts/python-code-review-guide/)
 - [From Programmers to Orchestrators](https://pablogonzalez.me/posts/programmers-to-orchestrators/)
-- [How I Work with AI Agents: Handoffs and Rules](https://pablogonzalez.me/posts/how-i-work-with-ai-agents/)
-- [My Homelab: From Book Server to Media Stack](https://pablogonzalez.me/posts/jellyfin-homelab-media-stack/)
-- [Hugo Site on Cloudflare Pages with Umami](https://pablogonzalez.me/posts/static-site-hugo-cloudflare/)
 <!-- BLOG-POST-LIST:END -->
